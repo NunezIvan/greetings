@@ -6,7 +6,7 @@ Ester paquete proporciona una forma simple de obtener saludos personalizados
 Ejecuta el siguiente comando para instalar el paquete
 
 ```bash
-go get -u github/NunezIvan/greetings
+go get -u github.com/NunezIvan/greetings
 ```
 ##Uso
 Aqui tienes un ejemplo de como utilizar el paquete en tu codigo
